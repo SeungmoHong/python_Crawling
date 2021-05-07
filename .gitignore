@@ -7,8 +7,6 @@ chromedriver.exe
 __pycache__/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-samples/
-roadapikey.txt
 
 
 # IPython
