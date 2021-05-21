@@ -1,6 +1,7 @@
 # seumgmo add
 chromedriver.exe
 연습장.ipynb
+123.ipynb
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 __pycache__/
